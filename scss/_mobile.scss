@@ -34,6 +34,12 @@
     height: 75vh;
     transform: translate3d(-100%, 0, 0);
     font-size: 24px;
+    justify-content: flex-start;
+    padding: 30px;
+
+    .nav-link {
+      padding: 0;
+    }
   }
 
   .menu-branding {
